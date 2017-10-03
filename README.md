@@ -14,7 +14,7 @@ Here is a preview of the dashboard components
 </p>
 
 <p>
-<h4>Decision Graph Panel</h4>>
+<h4>Decision Graph Panel</h4>
 <img src="./imgs/DecisionGraph.png" alt="Missing Decision Graph" style="width:200px;height:200px;">
 </p>
 
@@ -24,13 +24,8 @@ Here is a preview of the dashboard components
 </p>
 
 <p>
-<h4>Eye Clustering Panel [2]</h4>>
+<h4>Eye Clustering Panel [2]</h4>
 <img src="./imgs/EyeClustering.png" alt="Missing Eye Clustering Results" style="width:200px;height:200px;">
-</p>
-
-<p>
-<h4>Eye Clustering Results [3]</h4>>
-<img src="./imgs/AlgorithmicClustering.png" alt="Missing Alogrithmic Clustering Results" style="width:200px;height:200px;">
 </p>
 
 <h2> 
