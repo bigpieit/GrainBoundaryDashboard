@@ -25,6 +25,14 @@ This is an R Shiny dashboard pacage. Libraries used are:
 <h2>
 Data Format
 </h2>
+<p>
+>> head -5 STRUCnote.txt<br>
+NK: 1 SK: 2 FK: 3 Disordered: 4 Not-Applicable: 5<br>
+Structures   GB-Type<br>
+lammps_0001    SK<br>
+lammps_0002    SK<br>
+lammps_0003    SK<br>
+</p>
 
 <h2> 
 Run From Command Line
