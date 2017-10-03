@@ -47,6 +47,9 @@ lammps_0003    SK<br>
 <h2> 
 Run From Command Line
 </h2>
+<p>
+>> R -e "shiny::runApp('./GrainBoundaryDashboard/', launch.browser=TRUE)"
+</p>
 
 <h2>
 Reference
