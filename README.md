@@ -6,7 +6,12 @@ GrainBoundaryDashBoard Manual
 Overview
 </h2>
 <p>
-'GrainBoudaryDashboard' is an interactive clustering analysis and visualization dashboard of grain boundary data. The clustering is done by fast search and find of density peaks. Please refer to the References for our implementation and application[1] and the algorithm detail[2].
+'GrainBoudaryDashboard' is an interactive clustering analysis and visualization dashboard of grain boundary data. The clustering is done by fast search and find of density peaks. Please refer to the References for our implementation and application [1] and the algorithm detail [2].
+</p>
+
+<p>
+<img src="./imgs/DecisionGraph.png" alt="Missing Decision Graph" style="width:200px;height:200px;">
+
 </p>
 
 <h2> 
