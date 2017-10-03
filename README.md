@@ -26,6 +26,16 @@ This is an R Shiny dashboard pacage. Libraries used are:
 Data Format
 </h2>
 <p>
+STRUCTURESnew.txt is the properties file of grain boundary structures.
+>> head -5 STRUCTURESnew.txt<br>
+Structures   Fraction     E[J/m2]      V[A]         Fx           Fy           Fz           Q4           Q6           Q8           Q12          Method<br>
+lammps_0001  0.4800       0.93680      0.16544      -2.17289     0.09197      0.00385      -0.08194     -0.14352     -0.02246     -0.16911     byEQ<br>
+lammps_0002  0.4800       0.94716      0.18797      -1.81158     0.45094      0.00306      -0.08864     -0.14978     -0.01830     -0.17313     byEQ<br>
+lammps_0003  0.4800       0.95167      0.17775      -1.91515     0.09950      0.00046      -0.08491     -0.14605     -0.01882     -0.17080     byEQ<br>
+lammps_0004  0.4800       0.95168      0.19061      -1.80610     0.51287      0.00361      -0.09380     -0.15482     -0.01712     -0.17811     byEQ<br>
+</p>
+<p>
+STRUCnote.txt is the categorization of grain boundary structures through laboring eye detection.
 >> head -5 STRUCnote.txt<br>
 NK: 1 SK: 2 FK: 3 Disordered: 4 Not-Applicable: 5<br>
 Structures   GB-Type<br>
