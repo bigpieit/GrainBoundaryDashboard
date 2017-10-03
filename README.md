@@ -15,9 +15,10 @@ Packages Required
 <p>
 This is an R Shiny dashboard pacage. Libraries used are:
 <ul>
-  <li> <a href=""> shiny <a> </li>
-  <li> <a href=""> shinydashboard <a> </li>
-  <li> <a href=""> 
+  <li> <a href="https://cran.r-project.org/web/packages/shiny/index.html"> shiny </a> </li>
+  <li> <a href="https://rstudio.github.io/shinydashboard/"> shinydashboard </a> </li>
+  <li> <a href="https://cran.r-project.org/web/packages/densityClust/index.html"> densityClust </a> </li>
+  <li> <a href="http://ggplot2.org/"> ggplot2 </a> </li>
 </ul>
 </p>
 
