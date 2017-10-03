@@ -6,12 +6,31 @@ GrainBoundaryDashBoard Manual
 Overview
 </h2>
 <p>
-'GrainBoudaryDashboard' is an interactive clustering analysis and visualization dashboard of grain boundary data. The clustering is done by fast search and find of density peaks. Please refer to the References for our implementation and application [1] and the algorithm detail [2].
+'GrainBoudaryDashboard' is an interactive clustering analysis and visualization dashboard of grain boundary data. The clustering is done by fast search and find of density peaks. Please refer to the References for the implementation and application [1][2] and the algorithm detail [3].
 </p>
 
 <p>
-<img src="./imgs/DecisionGraph.png" alt="Missing Decision Graph" style="width:200px;height:200px;">
+Here is a preview of the dashboard components
+</p>
 
+<p>
+<h4>Decision Graph Panel</h4>>
+<img src="./imgs/DecisionGraph.png" alt="Missing Decision Graph" style="width:200px;height:200px;">
+</p>
+
+<p>
+<h4>Alogrithm Clustering Panel [1][2][3]</h4>>
+<img src="./imgs/AlgorithmicClustering.png" alt="Missing Alogrithmic Clustering Results" style="width:200px;height:200px;">
+</p>
+
+<p>
+<h4>Eye Clustering Panel [2]</h4>>
+<img src="./imgs/EyeClustering.png" alt="Missing Eye Clustering Results" style="width:200px;height:200px;">
+</p>
+
+<p>
+<h4>Eye Clustering Results [3]</h4>>
+<img src="./imgs/AlgorithmicClustering.png" alt="Missing Alogrithmic Clustering Results" style="width:200px;height:200px;">
 </p>
 
 <h2> 
@@ -62,6 +81,7 @@ Reference
 <p>
 <ol>
   <li> Qiang Zhu, Amit Samanta, Bingxi Li, Robert E Rudd, Timofey Frolov, Predicting phase behavior of grain boundaries with evolutionary search and machine learning, <a href="https://arxiv.org/abs/1707.09699">arXiv:1707.09699</a> [cond-mat.mtrl-sci] </li>
+  <li> Bingxi Li, Data Pipeline Development for Grain Boundary Structures Classification, <a href="https://arxiv.org/abs/1707.09699"> arXiv </a> [cond-mat.mtrl-sci] </li>
   <li> Alex Rodriguez and Alessandro Laio. Clustering by fast search and find of density peaks. Science, 344(6191):1492–1496, 2014. </li>
 </ol>
 </p>
