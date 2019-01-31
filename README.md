@@ -76,7 +76,7 @@ Reference
 <p>
 <ol>
   <li> Qiang Zhu, Amit Samanta, Bingxi Li, Robert E Rudd, Timofey Frolov, Predicting phase behavior of grain boundaries with evolutionary search and machine learning, <a href="https://arxiv.org/abs/1707.09699">arXiv:1707.09699</a> [cond-mat.mtrl-sci] </li>
-  <li> Bingxi Li, Data Pipeline Development for Grain Boundary Structures Classification, <a href="https://arxiv.org/abs/1707.09699"> arXiv </a> [cond-mat.mtrl-sci] </li>
+  <li> Bingxi Li, Data Pipeline Development for Grain Boundary Structures Classification, <a href="https://arxiv.org/abs/1710.00995"> arXiv </a> [cond-mat.mtrl-sci] </li>
   <li> Alex Rodriguez and Alessandro Laio. Clustering by fast search and find of density peaks. Science, 344(6191):1492–1496, 2014. </li>
 </ol>
 </p>
